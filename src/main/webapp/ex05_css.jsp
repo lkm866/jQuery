@@ -37,17 +37,17 @@
 </head>
 <body>
 	<ul>
-		<li id="java">JAVA2</li>
-		<li>WEB2</li>
+		<li id="java">JAVA</li>
+		<li>WEB</li>
 		<ul>
-			<li id="jsp">JSP2</li>
+			<li id="jsp">JSP</li>
 			<ul>
-				<li class="bg">EL2</li>
-				<li class="bg">JSEL2</li>
+				<li class="bg">EL</li>
+				<li class="bg">JSEL</li>
 			</ul>
-			<li>SPRING2</li>
+			<li>SPRING</li>
 		</ul>
-		<li>ANDROID2</li>
+		<li>ANDROID</li>
 	</ul>
 	<hr>
 	<div id="box">눌러주세요2</div>
