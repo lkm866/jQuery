@@ -42,8 +42,8 @@
 		<ul>
 			<li id="jsp">JSP</li>
 			<ul>
-				<li class="bg">EL</li>
-				<li class="bg">JSEL</li>
+				<li>EL</li>
+				<li>JSEL</li>
 			</ul>
 			<li>SPRING</li>
 		</ul>
